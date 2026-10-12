@@ -1,0 +1,6 @@
+python-telegram-bot==21.*
+ollama
+httpx
+python-dotenv
+pydantic
+fpdf2
